@@ -1,11 +1,3 @@
-# 👨‍💻 Matheus Dantas Grigorio
-
-### Estudante de Análise e Desenvolvimento de Sistemas - FATEC
-
----
-
-## 🧠 Sobre mim  
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC, com foco em desenvolvimento e aprimoramento contínuo das minhas habilidades técnicas.
 
 ---
 
