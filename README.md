@@ -34,8 +34,6 @@ Atualmente atuo como estagiário em suporte e infraestrutura na rede pública de
   <img src="https://skillicons.dev/icons?i=js" title="js" alt="js" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Scrum" alt="Scrum" width="48" height="48"/>
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" width="48" height="48"/>
 <br>
 <br>
 
